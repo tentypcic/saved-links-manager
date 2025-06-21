@@ -6,7 +6,7 @@
 <p align="center">
 	Project code in pure HTML + JS.
 	<br />
-	<a href="">View demo</a>
+	<a href="https://tentypcic.github.io/saved-links-manager/">View demo</a>
 	·
 	<a href="https://github.com/tentypcic/saved-links-manager/issues">Report Bug</a>
 </p>
