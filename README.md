@@ -11,6 +11,8 @@
 	<a href="https://github.com/tentypcic/saved-links-manager/issues">Report Bug</a>
 </p>
 
+## About The Project
+
 A lightweight, single-page web application that lets you save, search, export and manage your favourite links entirely in the browser, with zero server backend.
 
 ## Features
